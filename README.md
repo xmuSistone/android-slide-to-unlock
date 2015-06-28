@@ -6,4 +6,6 @@ imitate ios, slide to unlock text color gradient animation
 代码比较简单，就是用android自带的着色器shader去drawText，根据不同的参数，设置着色器不同的着色位置。<br>
 
 截图：<br>
-<img src="screen.jpg" width="672" height="990" /><br>
+<img src="screen.jpg" width="588" height="160" /><br>
+
+<img src="screen.gif" width="388" height="250" /><br>
